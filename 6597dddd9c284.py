@@ -22,6 +22,7 @@ b1=QPushButton("Додати")
 
 q2=QComboBox()
 text2=QTextEdit()
+text2.setReadOnly(True)
 b2=QPushButton("Показати")
 
 
